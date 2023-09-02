@@ -1,0 +1,4 @@
+frontend = https://go-kart.onrender.com
+backend = https://go-kart-your-first-marketplace.onrender.com
+
+localhost = https://localhost:8080
